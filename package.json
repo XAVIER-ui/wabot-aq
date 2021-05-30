@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "SASUKE-BOT",
   "version": "2.1.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -14,21 +14,21 @@
     "test": "node test.js"
   },
   "keywords": [
-    "termux-whatsapp-bot",
-    "whatsapp-bot",
+    "termux-SASUKE-BOT",
+    "SASUKE-BOT",
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/XAVIER/SASUKE-BOT",
   "author": {
-    "name": "Nurutomo"
+    "name": "XAVIER"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/XAVIER/SASUKEBOT-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/XAVIER/SASUKEBOT-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
